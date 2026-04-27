@@ -17,6 +17,7 @@ size_t WriteCallback(void* contents, size_t size, size_t nmemb, std::string* use
 }
 
 // wtf, allat just to random
+/* literally random kid but ill keep it for future projects
 namespace utils {
     std::mt19937 rng(std::random_device{}());
 
@@ -26,6 +27,7 @@ namespace utils {
         return vec[dist(rng)];
     }
 }
+*/
 
 struct IpOutput {
     std::string ip;
