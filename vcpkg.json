@@ -1,0 +1,8 @@
+{
+  "name": "consoleapplication",
+  "dependencies": [
+    "curl",
+    "openssl",
+    "nlohmann-json"
+  ]
+}
